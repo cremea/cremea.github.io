@@ -112,3 +112,8 @@ footer{
 .clear-float{
   clear:both;
 }
+
+a{
+  color:#fff;
+  text-decoration: none;
+}
