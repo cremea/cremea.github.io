@@ -27,7 +27,7 @@ header{
 /*mainコンテンツ*/
 .main{
   padding:100px 80px;
-  background-image: url(https://cremea.github.io/beach.jpg);
+  background-image: url(beach.jpg);
   background-size: cover;
 }
 
