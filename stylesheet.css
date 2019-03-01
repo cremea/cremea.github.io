@@ -108,3 +108,7 @@ footer{
   padding-bottom:3px;
   padding-right:30px;
 }
+
+.clear-float{
+  clear:both;
+}
